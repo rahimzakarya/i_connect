@@ -1,11 +1,11 @@
 import 'package:parcel_box/my_flutter_app_icons.dart';
 
-import '../../flutter_flow/flutter_flow_drop_down.dart';
-import '../../flutter_flow/flutter_flow_icon_button.dart';
-import '../../flutter_flow/flutter_flow_radio_button.dart';
-import '../../flutter_flow/flutter_flow_theme.dart';
-import '../../flutter_flow/flutter_flow_util.dart';
-import '../../flutter_flow/flutter_flow_widgets.dart';
+import '../../components/drop_down.dart';
+import '../../components/icon_button.dart';
+import '../../components/radio_button.dart';
+import '../../components/theme.dart';
+import '../../components/util.dart';
+import '../../components/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../../pages/notifications.dart';

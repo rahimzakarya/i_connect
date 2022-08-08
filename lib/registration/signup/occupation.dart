@@ -1,8 +1,8 @@
-import '../../flutter_flow/flutter_flow_choice_chips.dart';
-import '../../flutter_flow/flutter_flow_icon_button.dart';
-import '../../flutter_flow/flutter_flow_theme.dart';
-import '../../flutter_flow/flutter_flow_util.dart';
-import '../../flutter_flow/flutter_flow_widgets.dart';
+import '../../components/choice_chips.dart';
+import '../../components/icon_button.dart';
+import '../../components/theme.dart';
+import '../../components/util.dart';
+import '../../components/widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'studentInfo.dart';

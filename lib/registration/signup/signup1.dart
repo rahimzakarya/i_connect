@@ -1,6 +1,6 @@
-import '../../flutter_flow/flutter_flow_theme.dart';
-import '../../../flutter_flow/flutter_flow_util.dart';
-import '../../../flutter_flow/flutter_flow_widgets.dart';
+import '../../components/theme.dart';
+import '../../components/util.dart';
+import '../../components/widgets.dart';
 // import '../home_page/home_page_widget.dart';
 import '../../getStrated.dart';
 import 'package:auto_size_text/auto_size_text.dart';

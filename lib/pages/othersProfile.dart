@@ -1,9 +1,8 @@
-import '../flutter_flow/flutter_flow_theme.dart';
-import '../flutter_flow/flutter_flow_util.dart';
-import '../flutter_flow/flutter_flow_widgets.dart';
-import 'package:flutter/material.dart';
+import '../components/theme.dart';
+import '../components/widgets.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:parcel_box/my_flutter_app_icons.dart';
+import 'package:flutter/material.dart';
 
 class OthersProfileWidget extends StatefulWidget {
   const OthersProfileWidget({Key key}) : super(key: key);
