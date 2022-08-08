@@ -1,4 +1,4 @@
-# project4
+# i-connect
 
 A new Flutter project.
 
